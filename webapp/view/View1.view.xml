@@ -2,6 +2,6 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
-    <Text id="txtctms" text="Testing this Fiori app for CTMS"/>
+    <Text id="txtctms" text="Testing this Fiori app for CTMS,OK"/>
     </Page>
 </mvc:View>
